@@ -1,5 +1,5 @@
 *{padding: 0;margin: 0}
-.container{height: 100vh; width: 100vw; color: rgb(14, 14, 14); background: #6e6e6e; text-align: center;}
+.container{height: 200vh; width: 100vw; color: rgb(14, 14, 14); background: #6e6e6e; text-align: center;}
 .love, .yes, .not{
     padding-top: 25%;
 }
