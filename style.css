@@ -1,0 +1,9 @@
+*{padding: 0;margin: 0}
+.container{height: 250vh; width: 100vw; color: rgb(255, 255, 255); background: #565656; text-align: center;}
+.love, .yes, .not{
+    padding-top: 25%;
+}
+h2{font-size: 72px; margin: 30px;}
+.love span{color:#ff9090}
+.love a{text-decoration: none; background: #eee; padding: 5px; margin: 5px 10px; border: 3PX solid #ddd; border-radius: 10px;}
+img{width: 25cm; height: 12.5cm;}
